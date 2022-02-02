@@ -1,0 +1,253 @@
+/***Common Start***/
+*{
+	margin:0;
+	padding:0;
+}
+/***Common End***/
+/***Header Start***/
+header{
+	border-bottom:3px solid #EEF0F3;
+	padding:10px 0;
+}
+.container{
+	width:90%;
+	margin:0 auto;
+	overflow:hidden;
+}
+.logo{
+	width:8%;
+	float:left;
+}
+.logo img{
+	width:100%;
+	
+}
+.menu{
+	margin-top:12px;
+	width:45%;
+	float:right;
+}
+.menu ul{
+	float:right;
+}
+.menu ul li{
+	list-style:none;
+	float:left;
+}
+.menu ul li a{
+	font-family:sans-serif;
+	font-size:16px;
+	font-weight:400;
+	color:#0F2656;
+	text-decoration:none;
+	margin:0 20px;
+	display:inline-block;
+}
+.menu ul li:last-child a{
+	margin-right:0;
+}
+/***Header End***/
+
+/***Banner Start***/
+.banner{
+	padding:60px 0;
+}
+.container2{
+	width:55%;
+	margin:0 auto;
+	
+}
+.b-content{
+	text-align:center;
+	font-family:sans-serif;
+}
+.b-content h1{
+	margin:0;
+	font-size:45px;
+	color:#0F2656;
+}
+.b-content h2{
+	font-size:45px;
+	color:#008AFF;
+	margin:10px 0;
+}
+.b-content p{
+	margin-top:0;
+	margin-bottom:10px;
+	font-size:16px;
+	color:#0F2656;
+	line-height:25px;
+	word-spacing:1px;
+}
+.b-img{
+	width:75%;
+	margin:0 auto;
+}
+.b-img img{
+	width:100%;
+}
+/***Banner End***/
+
+/***Success Start***/
+.success{
+	padding:60px 0;
+}
+.s-content{
+	overflow:hidden;
+	font-family:sans-serif;
+}
+.s-left{
+	width:42%;
+	float:left;
+	text-align:right;
+	padding:0 10px 0 20px;
+}
+.s-left h2{
+	font-size:42px;
+	color:#F15767;
+	margin:0 0 10px;
+}
+.s-left p{
+	font-size:17px;
+	color:#0F2656;
+	margin:0;
+	word-spacing:1px;
+}
+.s-right{
+	width:48%;
+	float:right;
+	padding:0 20px 0 10px;
+}
+.s-right h1{
+	font-size:44px;
+	color:#0F2656;
+	margin:0;
+}
+/***Success End***/
+
+/***Feature Start***/
+.feature{
+	padding:60px 0;
+}
+.f-content{
+	overflow:hidden;
+}
+.f-single{
+	width:28%;
+	font-family:sans-serif;
+	color:#0F2656;
+	padding:30px 24px 45px;
+	float:left;
+	margin-right:25px;
+}
+.f-single:last-child{
+	margin-right:0;
+}
+.pink{
+	background-color:#FDEBED;
+}
+.green{
+	background-color:#EBF9F4;
+}
+.yellow{
+	background-color:#FFF7E8;
+}
+.f-img{
+	
+}
+.f-img img{
+	width:100%;
+}
+.f-single h2{
+	font-size:22px;
+	margin:20px 0;
+}
+.f-single p{
+	margin:0;
+}
+/***Feature End***/
+
+/***Footer Start***/
+.footer{
+	background-color:#008AFF;
+}
+.footer-content{
+	font-family:sans-serif;
+	text-align:center;
+	color:#FFFFFF;
+	padding:35px 0;
+}
+.footer-content p{
+	font-size:11px;
+	font-weight:normal;
+}
+span{
+	font-weight:700;
+}
+/***Footer End***/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
